@@ -14,9 +14,9 @@
 
 ## Languages and Tools
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=GomesGuilherme07&show_icons=true&theme=dracula)](https://github.com/GomesGuilherme07/github-readme-stats)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=GomesGuilherme07&show_icons=true&theme=dracula)](https://github.com/GomesGuilherme07)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilherme07&theme=dracula)](https://github.com/GomesGuilherme07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilherme07&theme=dracula)](https://github.com/GomesGuilherme07)
 
 <code><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></code>
